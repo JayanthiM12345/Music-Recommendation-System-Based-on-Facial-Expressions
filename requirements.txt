@@ -1,0 +1,15 @@
+flask
+numpy
+opencv-python
+keras
+tensorflow
+Pillow
+pymongo
+flask-bcrypt
+flask-login
+python-dotenv
+kaggle
+matplotlib
+scikit-learn
+pandas
+itsdangerous
